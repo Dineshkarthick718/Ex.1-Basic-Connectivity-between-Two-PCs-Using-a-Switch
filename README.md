@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 15.10.26	
 
 # Objective
 
@@ -13,6 +13,10 @@ ________________________________________
 # Network Topology Diagram
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/2c0d6eed-f547-491c-b3cb-6db3c7442ac0" />
+
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -41,6 +45,17 @@ ________________________________________
 # Output (Screenshots / Ping Results)
 
 Insert screenshots showing ping success, configuration, or simulation results.
+
+## Configuration:
+<img width="1907" height="1077" alt="image" src="https://github.com/user-attachments/assets/b04aae5c-7669-4cfe-9eec-01d18c7989ba" />
+<img width="1917" height="1057" alt="image" src="https://github.com/user-attachments/assets/6dca6d68-827b-4189-add0-05341cae504e" />
+
+
+## Ping:
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/5b68b139-1d7d-41be-a39c-ccc7fa6f1bf8" />
+
+
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
